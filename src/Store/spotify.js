@@ -1,4 +1,6 @@
 import { get, post } from 'axios'
+import { getSummerfestData, getArtists, getPerfromancesList } from './summerfest'
+
 const CLIENT_ID = 'e5e5b796795b448d8d458f391b95a7c9'
 const SCOPES = 'user-read-private user-read-email playlist-modify-public'
 const REDIRECT_URI = 'http://localhost:3000'
@@ -71,3 +73,6 @@ export const createPlaylist = async () => {
     })
   return data
 }
+
+console.log(getPerfromancesList()[0])
+console.log(getArtists(getPerfromancesList()))
