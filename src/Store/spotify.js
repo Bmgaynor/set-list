@@ -1,6 +1,6 @@
-import { get } from 'axios'
+import { get, post } from 'axios'
 const CLIENT_ID = 'e5e5b796795b448d8d458f391b95a7c9'
-const SCOPES = 'user-read-private user-read-email'
+const SCOPES = 'user-read-private user-read-email playlist-modify-public'
 const REDIRECT_URI = 'http://localhost:3000'
 
 
@@ -41,10 +41,33 @@ const getSpotifyHeaders = () => {
 }
 
 export const getMe = () => {
+  const userInfo = window.localStorage.getItem('user_info')
+  if (userInfo) {
+    return Promise.resolve(JSON.parse(userInfo))
+  }
   return get('https://api.spotify.com/v1/me', {
     headers: getSpotifyHeaders()
-  }).then(({ data }) => data)
+  }).then(({ data }) => {
+    window.localStorage.setItem('user_info', JSON.stringify(data))
+    return data
+  })
   .catch(err => {
     console.error(err)
+    return {}
   })
+}
+
+const buildPlaylist = () => {
+  return {
+    name: 'Dope summerfest playlist'    
+  }
+}
+
+export const createPlaylist = async () => {
+  const user = await getMe()
+  const { id } =  user
+  const { data } = await post(`https://api.spotify.com/v1/users/${id}/playlists`, buildPlaylist() , {
+      headers: getSpotifyHeaders()
+    })
+  return data
 }
