@@ -1,0 +1,934 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+            "id": "4F61H4lx1js4wtWfb2Rfnt",
+            "name": "Party Pupils",
+            "type": "artist",
+            "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6cGK6pBNrE1HmuITaZYvkN"
+        },
+        "href": "https://api.spotify.com/v1/albums/6cGK6pBNrE1HmuITaZYvkN",
+        "id": "6cGK6pBNrE1HmuITaZYvkN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/7880b0516b4430e96869361ab94cd4c12994a38e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/7a1aff45e8f5c537245ce589c28b14a2626af04c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a38f87ab07354b21ba0c2bf706935aecb81acdd1",
+            "width": 64
+          }
+        ],
+        "name": "Ms. Jackson",
+        "release_date": "2016-09-22",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6cGK6pBNrE1HmuITaZYvkN"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 182439,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TCACS1611740"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uIbS3hBnqjJ9cVG0XmMHr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uIbS3hBnqjJ9cVG0XmMHr",
+      "id": "0uIbS3hBnqjJ9cVG0XmMHr",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ms. Jackson",
+      "popularity": 53,
+      "preview_url": "https://p.scdn.co/mp3-preview/d19366ad817558746715cb4b6b1d2069fd181ecd?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0uIbS3hBnqjJ9cVG0XmMHr"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+            "id": "4F61H4lx1js4wtWfb2Rfnt",
+            "name": "Party Pupils",
+            "type": "artist",
+            "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bqxdqvUtPWZri43cKHac8",
+            "id": "1bqxdqvUtPWZri43cKHac8",
+            "name": "MAX",
+            "type": "artist",
+            "uri": "spotify:artist:1bqxdqvUtPWZri43cKHac8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+            },
+            "href": "https://api.spotify.com/v1/artists/6P5NO5hzJbuOqSdyPB7SJM",
+            "id": "6P5NO5hzJbuOqSdyPB7SJM",
+            "name": "Ashe",
+            "type": "artist",
+            "uri": "spotify:artist:6P5NO5hzJbuOqSdyPB7SJM"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0OMh4EUVmEr37ESBMSH5g3"
+        },
+        "href": "https://api.spotify.com/v1/albums/0OMh4EUVmEr37ESBMSH5g3",
+        "id": "0OMh4EUVmEr37ESBMSH5g3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/421fe72cd63b22bde5c242598887fe1e9be7c058",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/bbcbc38d38cea6f1437a315ad8a4f6a65629913b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/8df97d2d729df76495f9f83bd7786821c33b3934",
+            "width": 64
+          }
+        ],
+        "name": "Love Me For The Weekend (with Ashe)",
+        "release_date": "2018-11-16",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0OMh4EUVmEr37ESBMSH5g3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1bqxdqvUtPWZri43cKHac8",
+          "id": "1bqxdqvUtPWZri43cKHac8",
+          "name": "MAX",
+          "type": "artist",
+          "uri": "spotify:artist:1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          },
+          "href": "https://api.spotify.com/v1/artists/6P5NO5hzJbuOqSdyPB7SJM",
+          "id": "6P5NO5hzJbuOqSdyPB7SJM",
+          "name": "Ashe",
+          "type": "artist",
+          "uri": "spotify:artist:6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226956,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USDM31805702"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jye0ZfUs4eb8iw41UcKSH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jye0ZfUs4eb8iw41UcKSH",
+      "id": "1jye0ZfUs4eb8iw41UcKSH",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Love Me For The Weekend (with Ashe)",
+      "popularity": 50,
+      "preview_url": "https://p.scdn.co/mp3-preview/7e81afdd82eda23d700239ec0c286d89b223ee3c?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1jye0ZfUs4eb8iw41UcKSH"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+            "id": "4F61H4lx1js4wtWfb2Rfnt",
+            "name": "Party Pupils",
+            "type": "artist",
+            "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+            },
+            "href": "https://api.spotify.com/v1/artists/1bqxdqvUtPWZri43cKHac8",
+            "id": "1bqxdqvUtPWZri43cKHac8",
+            "name": "MAX",
+            "type": "artist",
+            "uri": "spotify:artist:1bqxdqvUtPWZri43cKHac8"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6vqxpbm3clvEq6LRzSjw1s"
+        },
+        "href": "https://api.spotify.com/v1/albums/6vqxpbm3clvEq6LRzSjw1s",
+        "id": "6vqxpbm3clvEq6LRzSjw1s",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c2c082c63253b0f06086ba60507fb14d6c67ff4c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c0d060d80b8afce666fcc1f83d833489b6669f4d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f66cc5c386cf2e20189a831a34f7b11cbf395824",
+            "width": 64
+          }
+        ],
+        "name": "Sax On The Beach",
+        "release_date": "2018-06-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6vqxpbm3clvEq6LRzSjw1s"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          },
+          "href": "https://api.spotify.com/v1/artists/1bqxdqvUtPWZri43cKHac8",
+          "id": "1bqxdqvUtPWZri43cKHac8",
+          "name": "MAX",
+          "type": "artist",
+          "uri": "spotify:artist:1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237155,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USDM31801802"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LjhywnE32xD6GJLfkbhfX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LjhywnE32xD6GJLfkbhfX",
+      "id": "5LjhywnE32xD6GJLfkbhfX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sax On The Beach",
+      "popularity": 49,
+      "preview_url": "https://p.scdn.co/mp3-preview/95dc43233a256c318edaa5ff1eca235dfbb59b79?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5LjhywnE32xD6GJLfkbhfX"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jnIB6XdLvnJUeNTy5A0J2",
+            "id": "2jnIB6XdLvnJUeNTy5A0J2",
+            "name": "Why Don't We",
+            "type": "artist",
+            "uri": "spotify:artist:2jnIB6XdLvnJUeNTy5A0J2"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1JDvJL5JKI9S3dxTkmhuXK"
+        },
+        "href": "https://api.spotify.com/v1/albums/1JDvJL5JKI9S3dxTkmhuXK",
+        "id": "1JDvJL5JKI9S3dxTkmhuXK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/378b79157c978f71c3a8806a406ff189f0b03e7c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/02158ea16552cc57f0bdd9a552f23e0359058892",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/11b81a3440a31da363c21d47e7326cda4961c4f4",
+            "width": 64
+          }
+        ],
+        "name": "8 Letters (Remixes)",
+        "release_date": "2019-01-14",
+        "release_date_precision": "day",
+        "total_tracks": 4,
+        "type": "album",
+        "uri": "spotify:album:1JDvJL5JKI9S3dxTkmhuXK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jnIB6XdLvnJUeNTy5A0J2",
+          "id": "2jnIB6XdLvnJUeNTy5A0J2",
+          "name": "Why Don't We",
+          "type": "artist",
+          "uri": "spotify:artist:2jnIB6XdLvnJUeNTy5A0J2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 171428,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21812371"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6yDiXbCqo8ptH4Jnb7qCNy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6yDiXbCqo8ptH4Jnb7qCNy",
+      "id": "6yDiXbCqo8ptH4Jnb7qCNy",
+      "is_local": false,
+      "is_playable": true,
+      "name": "8 Letters - Party Pupils Remix",
+      "popularity": 46,
+      "preview_url": "https://p.scdn.co/mp3-preview/a386a8a778c9fa4b5d7800a8a87fd1b01db9d6c6?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6yDiXbCqo8ptH4Jnb7qCNy"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+            "id": "4F61H4lx1js4wtWfb2Rfnt",
+            "name": "Party Pupils",
+            "type": "artist",
+            "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7ocdvbcnOd27ZAL9EghtCY"
+        },
+        "href": "https://api.spotify.com/v1/albums/7ocdvbcnOd27ZAL9EghtCY",
+        "id": "7ocdvbcnOd27ZAL9EghtCY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/237e9beaeef0223444d51679ba50ab1b5e050723",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8d5342dd7ac5de2c967124f67b8c2f5790ab0767",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1df9cbc174f38cfe9c274dc0cb271b9db4222ac5",
+            "width": 64
+          }
+        ],
+        "name": "Pony",
+        "release_date": "2016-10-26",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7ocdvbcnOd27ZAL9EghtCY"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 162214,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TCACS1681137"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6BJh4SZyRwVHgeKIPfykbQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6BJh4SZyRwVHgeKIPfykbQ",
+      "id": "6BJh4SZyRwVHgeKIPfykbQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pony",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/fb5f14c8f634afd6c572a33c16fa3c29ebc6d869?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6BJh4SZyRwVHgeKIPfykbQ"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+            "id": "4F61H4lx1js4wtWfb2Rfnt",
+            "name": "Party Pupils",
+            "type": "artist",
+            "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3JQq4zKJqwWYyWmSKgmLkF"
+        },
+        "href": "https://api.spotify.com/v1/albums/3JQq4zKJqwWYyWmSKgmLkF",
+        "id": "3JQq4zKJqwWYyWmSKgmLkF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/f4b0ae5a5db00cc161e213af6f7bbf8229eaf9ad",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e9fd2be54d8dfee21cc7ca3ae8802471f4290747",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/daa77a0b04aa9d94e24ac8e8a4cd988c9c79ee0a",
+            "width": 64
+          }
+        ],
+        "name": "This Is How We Do It (feat. Audien)",
+        "release_date": "2018-02-23",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3JQq4zKJqwWYyWmSKgmLkF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4xnMDfgEmXZEEDdITKcGuE",
+          "id": "4xnMDfgEmXZEEDdITKcGuE",
+          "name": "Audien",
+          "type": "artist",
+          "uri": "spotify:artist:4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179478,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USDM31899001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2nFueB7ZvMmH4iNW0Brmbf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2nFueB7ZvMmH4iNW0Brmbf",
+      "id": "2nFueB7ZvMmH4iNW0Brmbf",
+      "is_local": false,
+      "is_playable": true,
+      "name": "This Is How We Do It (feat. Audien)",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/6c9c16a85daf54c9be70a25316c4470de4137f21?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2nFueB7ZvMmH4iNW0Brmbf"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+            },
+            "href": "https://api.spotify.com/v1/artists/62Jfwxon19ZOT9eSL6bvtY",
+            "id": "62Jfwxon19ZOT9eSL6bvtY",
+            "name": "Sweater Beats",
+            "type": "artist",
+            "uri": "spotify:artist:62Jfwxon19ZOT9eSL6bvtY"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3LjhVl7GzYsza1biQjTpaN",
+            "id": "3LjhVl7GzYsza1biQjTpaN",
+            "name": "Hayley Kiyoko",
+            "type": "artist",
+            "uri": "spotify:artist:3LjhVl7GzYsza1biQjTpaN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+            },
+            "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+            "id": "4F61H4lx1js4wtWfb2Rfnt",
+            "name": "Party Pupils",
+            "type": "artist",
+            "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
+        },
+        "href": "https://api.spotify.com/v1/albums/3JH2u1LgVvwsCppzohPDBu",
+        "id": "3JH2u1LgVvwsCppzohPDBu",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a826b612aefcb3e625a27696c4b683299bb372ff",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/85ba2db66e3e305656fb60edf34d5c21884d5a2f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1d879a68473d0d901fb02360b7850e784fab8f52",
+            "width": 64
+          }
+        ],
+        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
+        "release_date": "2017-08-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3JH2u1LgVvwsCppzohPDBu"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+          },
+          "href": "https://api.spotify.com/v1/artists/62Jfwxon19ZOT9eSL6bvtY",
+          "id": "62Jfwxon19ZOT9eSL6bvtY",
+          "name": "Sweater Beats",
+          "type": "artist",
+          "uri": "spotify:artist:62Jfwxon19ZOT9eSL6bvtY"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          },
+          "href": "https://api.spotify.com/v1/artists/3LjhVl7GzYsza1biQjTpaN",
+          "id": "3LjhVl7GzYsza1biQjTpaN",
+          "name": "Hayley Kiyoko",
+          "type": "artist",
+          "uri": "spotify:artist:3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 168344,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USAT21702993"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CZqTaiEQdN61xQP58BNRO",
+      "id": "3CZqTaiEQdN61xQP58BNRO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
+      "popularity": 42,
+      "preview_url": "https://p.scdn.co/mp3-preview/91eaeb4487f02343e835fb87b8f75bb1b6bbe900?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3CZqTaiEQdN61xQP58BNRO"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ZPRZDAAuBrvx1tsIjeFxh",
+            "id": "3ZPRZDAAuBrvx1tsIjeFxh",
+            "name": "Pat Lok",
+            "type": "artist",
+            "uri": "spotify:artist:3ZPRZDAAuBrvx1tsIjeFxh"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/07jZnkWH7A61hSYrPshkei"
+        },
+        "href": "https://api.spotify.com/v1/albums/07jZnkWH7A61hSYrPshkei",
+        "id": "07jZnkWH7A61hSYrPshkei",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/03736e65b952498f4643549971332a048e3e7f82",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/adf5784d99d82dbfe76675d4f35b41a1684bf53f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1724a78ea7af1820c9d08437fe4fc02287d0c199",
+            "width": 64
+          }
+        ],
+        "name": "Corazón",
+        "release_date": "2019-06-14",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:07jZnkWH7A61hSYrPshkei"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ZPRZDAAuBrvx1tsIjeFxh",
+          "id": "3ZPRZDAAuBrvx1tsIjeFxh",
+          "name": "Pat Lok",
+          "type": "artist",
+          "uri": "spotify:artist:3ZPRZDAAuBrvx1tsIjeFxh"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+          },
+          "href": "https://api.spotify.com/v1/artists/1XwL3qdo0jPmliKRgxY5TL",
+          "id": "1XwL3qdo0jPmliKRgxY5TL",
+          "name": "Dances With White Girls",
+          "type": "artist",
+          "uri": "spotify:artist:1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FRU701801047"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0STQtKxSTVuOew6YTB6N9a"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0STQtKxSTVuOew6YTB6N9a",
+      "id": "0STQtKxSTVuOew6YTB6N9a",
+      "is_local": false,
+      "is_playable": true,
+      "name": "From the Back",
+      "popularity": 27,
+      "preview_url": "https://p.scdn.co/mp3-preview/f400eb5baba9ce65fdaa3e706ff272e6c34e6619?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0STQtKxSTVuOew6YTB6N9a"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+            },
+            "href": "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+            "id": "7wg1qvie3KqDNQbAkTdbX0",
+            "name": "Louis The Child",
+            "type": "artist",
+            "uri": "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4vT4X56azMSUuvAuIbL6Nw"
+        },
+        "href": "https://api.spotify.com/v1/albums/4vT4X56azMSUuvAuIbL6Nw",
+        "id": "4vT4X56azMSUuvAuIbL6Nw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a3226cb62db4f6320430eed13f044aafaac1807d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d36f8e65a5b134d89f5ad8940307868a1af0c735",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f17d07815ffa01acd1b623d02ec40bbcd4e78b49",
+            "width": 64
+          }
+        ],
+        "name": "Kids At Play - EP (Remixes)",
+        "release_date": "2019-03-15",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4vT4X56azMSUuvAuIbL6Nw"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7wg1qvie3KqDNQbAkTdbX0",
+          "id": "7wg1qvie3KqDNQbAkTdbX0",
+          "name": "Louis The Child",
+          "type": "artist",
+          "uri": "spotify:artist:7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+          },
+          "href": "https://api.spotify.com/v1/artists/3ApUX1o6oSz321MMECyIYd",
+          "id": "3ApUX1o6oSz321MMECyIYd",
+          "name": "Quinn XCII",
+          "type": "artist",
+          "uri": "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178947,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USUM71903880"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3RC4HkFyj7pXUP19eT8rWS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3RC4HkFyj7pXUP19eT8rWS",
+      "id": "3RC4HkFyj7pXUP19eT8rWS",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The City (feat. Quinn XCII) - Party Pupils Remix",
+      "popularity": 37,
+      "preview_url": "https://p.scdn.co/mp3-preview/703460a2febb9675a8099686c9729736fcd13825?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3RC4HkFyj7pXUP19eT8rWS"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+            },
+            "href": "https://api.spotify.com/v1/artists/11gWrKZMBsGQWmobv3oNfW",
+            "id": "11gWrKZMBsGQWmobv3oNfW",
+            "name": "Alison Wonderland",
+            "type": "artist",
+            "uri": "spotify:artist:11gWrKZMBsGQWmobv3oNfW"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5z8Dy9yAUdUSZ36yQxTlPC"
+        },
+        "href": "https://api.spotify.com/v1/albums/5z8Dy9yAUdUSZ36yQxTlPC",
+        "id": "5z8Dy9yAUdUSZ36yQxTlPC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/808b64a85c45d7b12ae5fd53db37a47347d04aa3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/228af80e47cd09519a5a95eef031e979cfcf8aae",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/e0b2822879c2e6e2fbdfb2dadfcb8beb3f0e6918",
+            "width": 64
+          }
+        ],
+        "name": "Church (The Remixes)",
+        "release_date": "2018-03-30",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:5z8Dy9yAUdUSZ36yQxTlPC"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          },
+          "href": "https://api.spotify.com/v1/artists/11gWrKZMBsGQWmobv3oNfW",
+          "id": "11gWrKZMBsGQWmobv3oNfW",
+          "name": "Alison Wonderland",
+          "type": "artist",
+          "uri": "spotify:artist:11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          },
+          "href": "https://api.spotify.com/v1/artists/4F61H4lx1js4wtWfb2Rfnt",
+          "id": "4F61H4lx1js4wtWfb2Rfnt",
+          "name": "Party Pupils",
+          "type": "artist",
+          "uri": "spotify:artist:4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 175384,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "AUUM71800172"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0PyWmBr4dpaK6AgB3cKOlC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0PyWmBr4dpaK6AgB3cKOlC",
+      "id": "0PyWmBr4dpaK6AgB3cKOlC",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Church - Party Pupils Remix",
+      "popularity": 36,
+      "preview_url": "https://p.scdn.co/mp3-preview/dd1b09b664b1f589126eb2004aef0506751bc9f9?cid=e5e5b796795b448d8d458f391b95a7c9",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0PyWmBr4dpaK6AgB3cKOlC"
+    }
+  ]
+}

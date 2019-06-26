@@ -8,7 +8,8 @@ export const getPerfromancesList = () => {
 }
 
 const getArtistId = link => {
-  return 1
+  const pathname = new URL(link).pathname  
+  return pathname.split('/')[2]
 }
 const spotifyRegex = new RegExp('\\bspotify\\b')
 export const getArtists = (performances) => {

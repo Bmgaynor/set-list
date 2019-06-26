@@ -1,10 +1,12 @@
 import React from 'react'
-import { getArtists, getPerfromancesList } from '../Store/summerfest' 
+import { getArtists, getPerfromancesList } from '../Store/summerfest'
+import Tracks from './Tracks'
 
 function Artist ({ artist }) {
   return ( 
     <div>
-      <a href={artist.spotifyLink}>{artist.name}</a>
+      <a href={artist.spotifyLink}>{artist.name} : {artist.spotifyArtistId}</a>
+      <Tracks artistId={artist.spotifyArtistId} />
       <img src={artist.image} />
     </div>
   )

@@ -74,5 +74,15 @@ export const createPlaylist = async () => {
   return data
 }
 
-console.log(getPerfromancesList()[0])
+export const getTopTracks = artistId => {
+  return get(`https://api.spotify.com/v1/artists/${artistId}/top-tracks?country=US`, { headers: getSpotifyHeaders() })
+    .then(({ data }) => {
+      return data.tracks
+    })
+}
+
+
+// console.log(getTopSongs('7sKxqpSqbIzphAKAhrqvlf'))
+
+// console.log(getPerfromancesList()[0])
 console.log(getArtists(getPerfromancesList()))
