@@ -3,7 +3,7 @@ import { getSummerfestData, getArtists, getPerfromancesList } from './summerfest
 
 const CLIENT_ID = 'e5e5b796795b448d8d458f391b95a7c9'
 const SCOPES = 'user-read-private user-read-email playlist-modify-public'
-const REDIRECT_URI = 'http://localhost:3000'
+const REDIRECT_URI = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : 'https://set-list-git-master.bradmgaynor.now.sh'
 
 
 export const getHashParams = () => {
